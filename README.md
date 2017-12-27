@@ -1,13 +1,13 @@
 
-# NLC��Training�����܂ł̎��Ԃ𑪂�X�N���v�g
+# NLCのTraining完了までの時間を測るスクリプト
 
-## �g����
+## 使い方
 
-- �v���L�V���K�v�Ȃ�3~4�s�ڂ̃R�����g���O���āA�E�ӂɃv���L�V�T�[�o��URL���w�肷��
-- NLC �� credential ��� (username, password) ��7~8�s�ڂ̉E�ӂɃR�s�y����
-- �K�v�Ȑl�͈�s�ڂ� `#!/path/to/perl` �I�Ȃ��̂����� `chmod + x wait.pl` �Ƃ����Ă�������
+- プロキシが必要なら4~5行目のコメントを外して、右辺にプロキシサーバのURLを指定する
+- NLC の credential 情報 (username, password) を9~10行目の右辺にコピペする
+- 1行目は適宜変更してください
 
-## �⑫
+## 補足
 
-�ڍׂ͂�������Q�Ƃ�������
+詳細はこちらを参照ください
 https://qiita.com/nmakino/private/eecdd39fa18f5a77a32e
