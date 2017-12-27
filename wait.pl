@@ -1,4 +1,4 @@
-#!/usr/bin/per;
+#!/usr/bin/perl
 
 # proxy settings
 #$ENV{http_proxy} = 'http://your-proxy:8080';
